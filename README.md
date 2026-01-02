@@ -1,2 +1,4 @@
-# DSA-with-Java
-2026 goals, honestly.... show up even on boring days. get stupidly consistent with DSA in Java and stop overthinking a lot.. build a GitHub that actually reflects effort, get better at problem-solving. balance college, coding, and life without burning out or disappearing. read more, think deeper, speak clearer. be disciplined. 
+# Arrays-in-JAVA
+This folder contains my practice programs on arrays in Java.
+I’m using it to understand basic array operations, logic building, and common DSA problems like searching, reversing, frequency counting, and subarrays.
+The goal is consistency and clarity, not just solving—actually understanding how arrays work.
